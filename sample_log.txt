@@ -1,0 +1,4 @@
+
+Jul 29 11:00:00 server1 firewall: CRITICAL - firewall disabled
+Jul 29 11:02:10 server1 login: Unauthorized access from 192.168.1.200
+Jul 29 11:10:00 server1 antivirus: Scan completed successfully
